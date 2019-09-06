@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LightningActionEditor.main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LightningActionEditor_main_jar</output-path>
+    <root id="archive" name="LightningActionEditor.main.jar">
+      <element id="module-output" name="LightningActionEditor.main" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.5/f645ed69d595b24d4cf8b3fbb64cc505bede8829/gson-2.8.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.portswigger.burp.extender/burp-extender-api/1.7.13/1bf506f157f4fabec379186963ea2c976acc32c2/burp-extender-api-1.7.13.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
